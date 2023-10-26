@@ -1,7 +1,7 @@
 /**/
-   body {
+    body {
        background:rgb(115, 156, 178);
-   }
+    }
 
 
     #minuteStr {
@@ -70,6 +70,14 @@
     #btnC {
         font-size: 10px;
         position:absolute; top:380px; left:70%; width:28%; height:60px; 
+    }
+
+    #btnD {
+        font-size: 30px;
+        position:absolute; top:500px; left:25%; width:50%; height:80px;
+        background-color: white;
+        color: red;
+        font-weight: bold; 
     }
     
     #minute {
