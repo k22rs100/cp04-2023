@@ -50,30 +50,29 @@
     }
 
    button{
-       color: blue;
+       color: black;
        font-family: Times;
        border-radius:20px;
    }
     
     #btnA {
-        font-size: 20px;
+        font-size: 30px;
         position:absolute; top:380px; left:2%; width:43%; height:60px; 
-        background-color: yellow;
-        color: green;
+        background-color: white;
     }
     
     #btnB {
-        font-size: 20px;
+        font-size: 30px;
         position:absolute; top:380px; left:45%; width:25%; height:60px; 
     }
 
     #btnC {
-        font-size: 10px;
+        font-size: 30px;
         position:absolute; top:380px; left:70%; width:28%; height:60px; 
     }
 
     #btnD {
-        font-size: 30px;
+        font-size: 40px;
         position:absolute; top:500px; left:25%; width:50%; height:80px;
         background-color: white;
         color: red;
